@@ -186,6 +186,32 @@
           "https://c103n10.thepower.io:43392"
         ]
       }
+    },
+    "104":{
+      "Aws4BUPeJkjZ2g6DYFhTVXPWDRe766HK2uakyl8S2o2c": {
+        "host": [
+          "http://c104n1.thepower.io:49842",
+          "https://c104n1.thepower.io:43393"
+        ],
+        "ip": ["https://163.172.144.129:43393", 
+        "http://163.172.144.129:49842"]
+      },
+      "AhOHPCtPItr5QHPM7muZD7iwf+QEE8NRiyY0k4IqqjrW": {
+        "host": [
+          "http://c104n2.thepower.io:49842",
+          "https://c104n2.thepower.io:43393"
+        ],
+        "ip": ["http://51.158.109.237:49842", 
+        "https://51.158.109.237:43393"]
+      },
+      "AtzU5X73PG0r5dDZl7XoUjh2GqifPVyDC4S1gvbHCpzD": {
+        "host": [
+          "http://c104n3.thepower.io:49842",
+          "https://c104n3.thepower.io:43393"
+        ],
+        "ip": ["http://51.158.116.222:49842", 
+        "https://51.158.116.222:43393"]
+      }
     }
   },
   "settings":{
