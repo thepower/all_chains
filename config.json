@@ -1006,12 +1006,12 @@
   },
   "nokey5":{
      "host":[
-        "http://c1032n610.thepower.io:1080",
+        "http://c1032n10.thepower.io:1080",
         "https://c1032n10.thepower.io:1443"
      ],
      "ip":[
         "http://161.97.137.110:1080",
-        "https://c1032n15.thepower.io:1443"
+        "https://c1032n10.thepower.io:1443"
      ]
   }
 },
@@ -1159,7 +1159,7 @@
   "nokey1":{
      "host":[
         "http://c1033n4.thepower.io:1080",
-        "https://c1033n4`.thepower.io:1443"
+        "https://c1033n4.thepower.io:1443"
      ],
      "ip":[
         "http://149.102.158.166:1080",
@@ -3048,5 +3048,17 @@
       1041,
       1042
       ]
-    }
-  }
+    },
+    "storage":{
+      "devnet":{
+        "3": {
+         "devnetx3":"AA100000001677723663"
+        }
+      },
+      "testnet":{
+         "3": {
+            "tesnetStoragex3":""
+           }
+      }
+   }
+}
