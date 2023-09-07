@@ -242,12 +242,12 @@
     "1025": {
       "3a6Q3k66T2nHneGyrJeA9ShZr7he": {
         "host": [
-          "http://powernode.array-a.net:1080",
-          "https://powernode.array-a.net:1443"
+          "http://array-a.net:1080",
+          "https://array-a.net:1443"
         ],
         "ip": [
-          "http://powernode.array-a.net:1080",
-          "https://powernode.array-a.net:1443"
+          "http://array-a.net:1080",
+          "https://array-a.net:1443"
         ]
       },
       "2upxyVUtp2DmJhis2tkWu1mMzidq": {
@@ -302,32 +302,12 @@
       },
       "7": {
         "host": [
-          "http://c1025n07.thepower.io:1080",
-          "https://c1025n07.thepower.io:1443"
+          "http://thepower.dimasik.tech:1080",
+          "https://thepower.dimasik.tech:1443"
         ],
         "ip": [
-          "http://c1025n07.thepower.io:1080",
-          "https://c1025n07.thepower.io:1443"
-        ]
-      },
-      "343gUPvT6zX9rv4vAjevDJ5wgKX2": {
-        "host": [
-          "http://thepower.io.probilisim.net:1080",
-          "https://thepower.io.probilisim.net:1443"
-        ],
-        "ip": [
-          "http://thepower.io.probilisim.net:1080",
-          "https://thepower.io.probilisim.net:1443"
-        ]
-      },
-      "2bwL4nrcPDSE1hZMrdxkCPhumkXH": {
-        "host": [
-          "http://c1025n09.thepower.io:1080",
-          "https://c1025n09.thepower.io:1443"
-        ],
-        "ip": [
-          "http://c1025n09.thepower.io:1080",
-          "https://c1025n09.thepower.io:1443"
+          "http://thepower.dimasik.tech:1080",
+          "https://thepower.dimasik.tech:1443"
         ]
       },
       "2kHaBBjacx7Efkoy8tUHkJyaXi5K": {
