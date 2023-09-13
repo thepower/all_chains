@@ -3029,51 +3029,51 @@
    "c1":{
       "host":[
          "http://c1402n1.deinfra.net:1082",
-         "https://c1402n1.deinfra.net:1445/"
+         "https://c1402n1.deinfra.net:1445"
       ],
       "ip":[
          "http://c1402n1.deinfra.net:1082",
-         "https://c1402n1.deinfra.net:1445/"
+         "https://c1402n1.deinfra.net:1445"
       ]
    },
    "c2":{
      "host":[
         "http://c1402n2.deinfra.net:1082",
-        "https://c1402n2.deinfra.net:1445/"
+        "https://c1402n2.deinfra.net:1445"
      ],
      "ip":[
         "http://c1402n2.deinfra.net:1082",
-        "https://c1402n2.deinfra.net:1445/"
+        "https://c1402n2.deinfra.net:1445"
      ]
   },
   "c3":{
      "host":[
         "http://c1402n3.deinfra.net:1082",
-        "https://c1402n3.deinfra.net:1445/"
+        "https://c1402n3.deinfra.net:1445"
      ],
      "ip":[
         "http://c1402n3.deinfra.net:1082",
-        "https://c1402n3.deinfra.net:1445/"
+        "https://c1402n3.deinfra.net:1445"
      ]
   },
   "c4":{
      "host":[
         "http://c1402n4.deinfra.net:1082",
-        "https://c1402n4.deinfra.net:1445/"
+        "https://c1402n4.deinfra.net:1445"
      ],
      "ip":[
         "http://c1402n4.deinfra.net:1082",
-        "https://c1402n4.deinfra.net:1445/"
+        "https://c1402n4.deinfra.net:1445"
      ]
   },
   "c5":{
      "host":[
         "http://c1402n5.deinfra.net:1082",
-        "https://c1402n5.deinfra.net:1445/"
+        "https://c1402n5.deinfra.net:1445"
      ],
      "ip":[
         "http://c1402n5.deinfra.net:1082",
-        "https://c1402n5.deinfra.net:1445/"
+        "https://c1402n5.deinfra.net:1445"
      ]
   }
 }
