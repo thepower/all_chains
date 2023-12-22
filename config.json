@@ -110,117 +110,250 @@
       }
     },
     "1025": {
-      "3a6Q3k66T2nHneGyrJeA9ShZr7he": {
-        "host": [ "http://array-a.net:1080", "https://array-a.net:1443" ],
-        "ip": [ "http://array-a.net:1080", "https://array-a.net:1443" ]
+      "c1025.arraya": {
+        "host": [
+          "http://array-a.net:1080",
+          "https://array-a.net:1443"
+        ],
+        "ip": [
+          "http://array-a.net:1080",
+          "https://array-a.net:1443"
+        ],
+        "pubkey": "302A300506032B65700321002A5036CE2F7DBDBFC20E96C480E3BA59E79B4070C7AF0363CE736C254139F104"
       },
-      "2upxyVUtp2DmJhis2tkWu1mMzidq": {
-        "host": [ "http://c1025n02.thepower.io:1080", "https://c1025n02.thepower.io:1443" ],
-        "ip": [ "http://c1025n02.thepower.io:1080", "https://c1025n02.thepower.io:1443" ]
+      "c1025.mssahin": {
+        "host": [
+          "http://c1025n05.thepower.io:1080",
+          "https://c1025n05.thepower.io:1443"
+        ],
+        "ip": [
+          "http://c1025n05.thepower.io:1080",
+          "https://c1025n05.thepower.io:1443"
+        ],
+        "pubkey": "302A300506032B6570032100799CE318BA11A4C22A36FCF124855C792CF6ADE399B9CC66F73B3FDC7E59BD24"
       },
-      "3Ek7XHQUbtmT3pq3aPHoBdZpMmpv": {
-        "host": [ "http://power.munris.tech:1080", "https://power.munris.tech:1443" ],
-        "ip": [ "http://power.munris.tech:1080", "https://power.munris.tech:1443" ]
+      "c1025.munris": {
+        "host": [
+          "http://power.munris.tech:1080",
+          "https://power.munris.tech:1443"
+        ],
+        "ip": [
+          "http://power.munris.tech:1080",
+          "https://power.munris.tech:1443"
+        ],
+        "pubkey": "302A300506032B657003210031556C87ADC436AC6F3D6B3824F9CE3C71CCEA60C9EA53AFD7CBE83AB7F60B49"
       },
-      "2JRwnwogUP4hsbAB6aDYXdYMrhKD": {
-        "host": [ "http://c1025n04.thepower.io:1080", "https://c1025n04.thepower.io:1443" ],
-        "ip": [ "http://c1025n04.thepower.io:1080", "https://c1025n04.thepower.io:1443" ]
+      "c1025.noname-3176A094": {
+        "host": [
+          "http://c1025n04.thepower.io:1080",
+          "https://c1025n04.thepower.io:1443"
+        ],
+        "ip": [
+          "http://c1025n04.thepower.io:1080",
+          "https://c1025n04.thepower.io:1443"
+        ],
+        "pubkey": "302A300506032B6570032100ADCE38DBEBE936DD800D9C85F1E405A29FDE46B848588C7EB8F3F5AC08004D7E"
       },
-      "JQZsderFjiaUFv9wbKxHH8hjkRw": {
-        "host": [ "http://c1025n05.thepower.io:1080", "https://c1025n05.thepower.io:1443" ],
-        "ip": [ "http://c1025n05.thepower.io:1080", "https://c1025n05.thepower.io:1443" ]
+      "c1025.zef": {
+        "host": [
+          "http://c1025n02.thepower.io:1080",
+          "https://c1025n02.thepower.io:1443"
+        ],
+        "ip": [
+          "http://c1025n02.thepower.io:1080",
+          "https://c1025n02.thepower.io:1443"
+        ],
+        "pubkey": "302A300506032B6570032100382FB913AB2460BAFB0EC88C1846AFCADE99C5A337314F1697F3216AE7D6741C"
       },
-      "2NXKffYv5RkTcun8wfyW81uoTGpd": {
-        "host": [ "http://c1025n06.thepower.io:1080", "https://c1025n06.thepower.io:1443" ],
-        "ip": [ "http://c1025n06.thepower.io:1080", "https://c1025n06.thepower.io:1443" ]
+      "c1025a.FastTest01": {
+        "host": [
+          "http://c1025n10.thepower.io:1080",
+          "https://c1025n10.thepower.io:1443"
+        ],
+        "ip": [
+          "http://c1025n10.thepower.io:1080",
+          "https://c1025n10.thepower.io:1443"
+        ],
+        "pubkey": "302A300506032B6570032100CA9CF32D9BEB731FC83C0B0DBF230DA355CDB1CCFBCFEF37977861EF1C5EDAB0"
       },
-      "7": {
-        "host": [ "http://thepower.dimasik.tech:1080", "https://thepower.dimasik.tech:1443" ],
-        "ip": [ "http://thepower.dimasik.tech:1080", "https://thepower.dimasik.tech:1443" ]
+      "c1025a.dimasik": {
+        "host": [
+          "http://thepower.dimasik.tech:1080",
+          "https://thepower.dimasik.tech:1443"
+        ],
+        "ip": [
+          "http://thepower.dimasik.tech:1080",
+          "https://thepower.dimasik.tech:1443"
+        ],
+        "pubkey": "302A300506032B65700321003DAA6ABDC628F5D9FC3E68B0AA55DEF3CB06576013229B381FCC7F741B5C7106"
       },
-      "2kHaBBjacx7Efkoy8tUHkJyaXi5K": {
-        "host": [ "http://c1025n10.thepower.io:1080", "https://c1025n10.thepower.io:1443" ],
-        "ip": [ "http://c1025n10.thepower.io:1080", "https://c1025n10.thepower.io:1443" ]
+      "c1035.maximuss": {
+        "host": [
+          "http://c1035n10.thepower.io:1080",
+          "https://c1035n10.thepower.io:1443"
+        ],
+        "ip": [
+          "http://c1035n10.thepower.io:1080",
+          "https://c1035n10.thepower.io:1443"
+        ],
+        "pubkey": "302A300506032B65700321003F890318129053D6ACAA96071E3C453F16EE371AA60E53A7828E4366AF0281F8"
       }
     }, 
     "1026": {
-      "1KfcihVni7no845UKSEQxAk46G6":{
-        "host":[ "http://thepower.cloudchitect.com:1080", "https://thepower.cloudchitect.com:1443" ],
-        "ip":[ "http://164.68.99.92:1080", "https://thepower.cloudchitect.com:1443" ]
+      "c1026.arthurpatriot": {
+        "host": [
+          "http://power-node.allsteeply.com:1080",
+          "https://power-node.allsteeply.com:1443"
+        ],
+        "ip": [
+          "http://power-node.allsteeply.com:1080",
+          "https://power-node.allsteeply.com:1443"
+        ],
+        "pubkey": "302A300506032B6570032100C69192E78730603C24EEBB4E44DA6F56EAA1DABDF57E0991C6BE2B453C68450B"
       },
-      "2NKgiju2fWKq7xXSarhGSvaxBbqc":{
-        "host":[ "http://c1026n8.thepower.io:1080", "https://c1026n8.thepower.io:1443" ],
-        "ip":[ "http://62.171.162.229:1080", "https://c1026n8.thepower.io:1443" ]
+      "c1026.easy": {
+        "host": [
+          "http://c1026n6.thepower.io:1080",
+          "https://c1026n6.thepower.io:1443"
+        ],
+        "ip": [
+          "http://135.181.29.202:1080",
+          "https://c1026n6.thepower.io:1443"
+        ],
+        "pubkey": "302A300506032B6570032100E72DDA3B88A88CE754877B5B0D1CEABB2BF7C9C0D5D7F86991B39347F0AC3C4D"
       },
-      "2VHERcZNi5C1BJjArYem6d6abFNU":{
-        "host":[ "http://c1026n10.thepower.io:1080", "https://c1026n10.thepower.io:1443" ],
-        "ip":[ "http://65.108.156.104:1080", "https://c1026n10.thepower.io:1443" ]
+      "c1026.genznodes": {
+        "host": [
+          "http://testnet-tpnode.genznodes.dev:1080",
+          "https://testnet-tpnode.genznodes.dev:1443"
+        ],
+        "ip": [
+          "http://testnet-tpnode.genznodes.dev:1080",
+          "https://testnet-tpnode.genznodes.dev:1443"
+        ],
+        "pubkey": "302A300506032B6570032100FF37A194D1A1B6EC285B3AC06AC9C3CCE56EA8BC7EC1E327C0AE8403028E3FF3"
       },
-      "2izwUSoqUXj8PFMHENc7tiPqxZju":{
-        "host":[ "http://c1026n1.thepower.io:1080", "https://c1026n1.thepower.io:1443" ],
-        "ip":[ "http://138.197.129.154:1080", "https://c1026n1.thepower.io:1443" ]
+      "c1026.luknode": {
+        "host": [
+          "http://thepower.cloudchitect.com:1080"
+        ],
+        "ip": [
+          "http://164.68.99.92:1080"
+        ],
+        "pubkey": "302A300506032B65700321004997BFACFE42E6CDBF1DA7E9EA57543841D3B01E6BCEA101815CC0EE149A9A96"
       },
-      "2rV19LQeRidoHkcVP7j3TH1cTfNJ":{
-        "host":[ "http://power-node.allsteeply.com:1080", "https://power-node.allsteeply.com:1443" ],
-        "ip":[ "http://194.44.62.175:1080", "https://power-node.allsteeply.com:1443" ]
+      "c1035.k0nt0l": {
+        "host": [
+          "http://c1035n13.thepower.io:1080",
+          "https://c1035n13.thepower.io:1443"
+        ],
+        "ip": [
+          "http://c1035n13.thepower.io:1080",
+          "https://c1035n13.thepower.io:1443"
+        ],
+        "pubkey": "302A300506032B6570032100B54A0614EE5D3F1D389258F5C9297447DBE3F3CC8CCF9428B3F20475B3881F45"
       },
-      "3Dj3z32yS9gXxZktDJ56aBkofnq7":{
-        "host":[ "http://c1026n6.thepower.io:1080", "https://c1026n6.thepower.io:1443" ],
-        "ip":[ "http://135.181.29.202:1080", "https://c1026n6.thepower.io:1443" ]
+      "c1036.saitomo": {
+        "host": [
+          "http://c1036n19.thepower.io:1080",
+          "https://c1036n19.thepower.io:1443"
+        ],
+        "ip": [
+          "http://c1036n19.thepower.io:1080",
+          "https://c1036n19.thepower.io:1443"
+        ],
+        "pubkey": "302A300506032B657003210088FA669CAD746A0BD41FBE891819C7A182ADC2E624470477115850231A443EB0"
       },
-      "3PEsDSvG3SEKpKs7qGbfsWVgdTQG":{
-        "host":[ "http://power.idekubagus.com:1080", "https://power.idekubagus.com:1443" ],
-        "ip":[ "http://152.69.220.10:1080", "https://152.69.220.10:1443" ]
-      },
-      "9B9xxNNQsSh1rmGyNvdEEnsChio":{
-        "host":[ "http://c1026n3.thepower.io:1080", "https://c1026n3.thepower.io:1443" ],
-        "ip":[ "http://c1026n3.thepower.io:1080", "https://c1026n3.thepower.io:1443" ]
-      },
-      "YNiMbgRAnyLLzEQoekiKyvLwbJf":{
-        "host":[ "http://c1026n9.thepower.io:1080", "https://c1026n9.thepower.io:1443" ],
-        "ip":[ "http://c1026n9.thepower.io:1080", "https://c1026n9.thepower.io:1443" ]
+      "c1039.yayang": {
+        "host": [
+          "http://c1039n6.deinfra.net:1080",
+          "https://c1039n6.deinfra.net:1443"
+        ],
+        "ip": [
+          "http://c1039n6.deinfra.net:1080",
+          "https://c1039n6.deinfra.net:1443"
+        ],
+        "pubkey": "302A300506032B65700321006D6C725A6AEB41FA0B5E26DD9AF61936A0609B9D9FD71C3260BDC0FF4C1105CC"
       }
     },
     "1027": {
-      "2WtZyFvhRBmgRQj1XUS9Di5bWWvf":{
-        "host":[ "http://c1027n8.thepower.io:1080", "https://c1027n8.thepower.io:1443" ],
-        "ip":[ "http://104.248.134.227:1080", "https://c1027n8.thepower.io:1443" ]
+      "c1027.lefey": {
+        "host": [
+          "http://thepower.lefey.ru:1080",
+          "https://thepower.lefey.ru:1443"
+        ],
+        "ip": [
+          "http://thepower.lefey.ru:1080",
+          "https://thepower.lefey.ru:1443"
+        ],
+        "pubkey": "302A300506032B6570032100A82608002541090F81D7BC1FCF7528D61D03D4E8AFEC501DA866E21B0E47CBB7"
       },
-      "2nzAGCv9Wqxp1QS7CiX49q4ZTG7N":{
-        "host":[ "http://c1027n10.thepower.io:1080", "https://c1027n10.thepower.io:1443" ],
-        "ip":[ "http://74.208.90.134:1080", "https://c1027n10.thepower.io:1443" ]
+      "c1027.moodman": {
+        "host": [
+          "http://c1027n7.thepower.io:1080",
+          "https://c1027n7.thepower.io:1443"
+        ],
+        "ip": [
+          "http://194.163.176.105:1080",
+          "https://c1027n7.thepower.io:1443"
+        ],
+        "pubkey": "302A300506032B657003210016375DD59AF78A9CF973A5FEF6FECAD5AB0079C1B97477A73A3D52BD357C002C"
       },
-      "3w91P9iBfoVJ4Eou7B1e16EG7NH4":{
-        "host":[ "http://c1027n1.thepower.io:1080", "https://c1027n1.thepower.io:1443" ],
-        "ip":[ "http://23.234.250.194:1080", "https://c1027n1.thepower.io:1443" ]
+      "c1027.oxrevo": {
+        "host": [
+          "https://c1027n10.thepower.io:1443"
+        ],
+        "ip": [
+          "https://c1027n10.thepower.io:1443"
+        ],
+        "pubkey": "302A300506032B657003210056FE3651AA5D658CB807ACB03534F081B3F124320DC42E83BAFD9367CCB4F74B"
       },
-      "45ox2TQCWnyaeC8GGvxHFprUGePr":{
-        "host":[ "http://c1027n9.thepower.io:1080", "https://c1027n9.thepower.io:1443" ],
-        "ip":[ "http://82.165.96.88:1080", "https://c1027n9.thepower.io:1443" ]
+      "c1027.sergo": {
+        "host": [
+          "https://c1027n3.thepower.io:1443"
+        ],
+        "ip": [
+          "https://c1027n3.thepower.io:1443"
+        ],
+        "pubkey": "302A300506032B6570032100854849780F73D9B9BB09F1EC503D3DC60471900DEDBD6110F7FE54F74482C53C"
       },
-      "4P8KtS3MmvPnERVjqzQFwrvmSBNh":{
-        "host":[ "http://thepower.lefey.ru:1080", "https://thepower.lefey.ru:1443" ],
-        "ip":[ "http://65.109.53.60:1080", "https://thepower.lefey.ru:1443" ]
+      "c1027.stingray": {
+        "host": [
+          "http://c1027n6.thepower.io:1080"
+        ],
+        "ip": [
+          "http://5.9.147.22:1080"
+        ],
+        "pubkey": "302A300506032B6570032100AB7F2C8A94024B89F8CC651EE8865D09070D4C01E8A897F7DDABB7C4A96EE169"
       },
-      "6zxv1VWZbEMWL5JZwiVmxstZ95A":{
-        "host":[ "http://c1027n5.thepower.io:1080", "https://c1027n5.thepower.io:1443" ],
-        "ip":[ "http://149.102.134.247:1080", "https://c1027n5.thepower.io:1443" ]
+      "c1029.nomad": {
+        "host": [
+          "http://c1029n8.thepower.io:1080"
+        ],
+        "ip": [
+          "http://c1029n8.thepower.io:1080"
+        ],
+        "pubkey": "302A300506032B65700321006DF01D900264B7B77DF32AA6E266AB9F759298C08DD2D774DC1AFA058252CB40"
       },
-      "M7gjgHL2Pi5DwVmupat5uWLxTm5":{
-        "host":[ "http://c1027n3.thepower.io:1080", "https://c1027n3.thepower.io:1443" ],
-        "ip":[ "http://65.108.76.44:1080", "https://c1027n3.thepower.io:1443" ]
+      "c1033.hyperion": {
+        "host": [
+          "http://c1033n11.thepower.io:1080"
+        ],
+        "ip": [
+          "http://c1033n11.thepower.io:1080"
+        ],
+        "pubkey": "302A300506032B65700321007A9EDF275802F5AE5877949C5D035F0B2203CF9A4AFCE6316ED802967FB558EB"
       },
-      "MnCgLWRTXPg47cF661XmffRwHoT":{
-        "host":[ "http://c1027n6.thepower.io:1080", "https://c1027n6.thepower.io:1443" ],
-        "ip":[ "http://5.9.147.22:1080", "https://c1027n6.thepower.io:1443" ]
-      },
-      "YVesCCNthqxamCTTTKfTxEBR91t":{
-        "host":[ "http://c1027n2.thepower.io:1080", "https://c1027n2.thepower.io:1443" ],
-        "ip":[ "http://206.189.1.10:1080", "https://c1027n2.thepower.io:1443" ]
-      },
-      "aVxtYc3VHqMbZhdG3bhorH3UB1y":{
-        "host":[ "http://c1027n7.thepower.io:1080", "https://c1027n7.thepower.io:1443" ],
-        "ip":[ "http://194.163.176.105:1080", "https://c1027n7.thepower.io:1443" ]
+      "c1039.kael": {
+        "host": [
+          "http://c1039n7.deinfra.net:1080",
+          "https://c1039n7.deinfra.net:1443"
+        ],
+        "ip": [
+          "http://c1039n7.deinfra.net:1080",
+          "https://c1039n7.deinfra.net:1443"
+        ],
+        "pubkey": "302A300506032B6570032100BF0D6E17DC06FF6406E835515C922AF9F7955CDA08331EC6A4F7B97489C0D313"
       }
     },
     "1028":{
@@ -754,127 +887,183 @@
       }
     },
     "1037":{
-      "2DFAaRYaq2mFQ11PtPfZg96DnfSn":{
-        "host":[ "http://c1037n1.deinfra.net:1080", "https://c1037n1.deinfra.net:1443" ],
-        "ip":[ "http://194.163.158.254:1080", "https://c1037n1.deinfra.net:1443" ]
+      "c1037.megikyura": {
+        "host": [
+          "http://power.megikyura.xyz:1080",
+          "https://power.megikyura.xyz:1443"
+        ],
+        "ip": [
+          "http://power.megikyura.xyz:1080",
+          "https://power.megikyura.xyz:1443"
+        ],
+        "pubkey": "302A300506032B6570032100A681CF72B1AC040F2A1FD9F257AD68B69E19628BB29A4A6C2EE7D29AC443DC82"
       },
-      "2eg9ANvVBKR1PkUF4WtL4pvs19sW":{
-        "host":[ "http://tpnode.nova-network.systems:1080", "https://tpnode.nova-network.systems:1443" ],
-        "ip":[ "http://78.40.216.149:1080", "https://tpnode.nova-network.systems:1443" ]
+      "c1037.novadev": {
+        "host": [
+          "http://tpnode.nova-network.systems:1080",
+          "https://tpnode.nova-network.systems:1443"
+        ],
+        "ip": [
+          "http://45.153.35.236:1080",
+          "https://tpnode.nova-network.systems:1443"
+        ],
+        "pubkey": "302A300506032B65700321005D2DA404600441196656F87A79B17191D213AFA4DAFCD64C3562437B9DE925C7"
       },
-      "3KYhGS4i59hMva6FAzLhY271pTFT":{
-        "host":[ "http://c1037n7.deinfra.net:1080", "https://c1037n7.deinfra.net:1443" ],
-        "ip":[ "http://38.242.216.57:1080", "https://c1037n7.deinfra.net:1443" ]
+      "c1037a.888tnso": {
+        "host": [
+          "http://deinfra.tnso.io:1080",
+          "https://deinfra.tnso.io:1443"
+        ],
+        "ip": [
+          "http://deinfra.tnso.io:1080",
+          "https://deinfra.tnso.io:1443"
+        ],
+        "pubkey": "302A300506032B6570032100647D9EF781B9824FBBFC2EB40686E65708D9E996AE44DABB95C8CA6DB702254C"
       },
-      "3QdTGTtr2nqrM64xuHWFkMXvK5zk":{
-        "host":[ "http://c1037n4.deinfra.net:1080", "https://c1037n4.deinfra.net:1443" ],
-        "ip":[ "http://135.181.147.169:1080", "https://c1037n4.deinfra.net:1443" ]
+      "c1037a.AnnaSotnika": {
+        "host": [
+          "http://vmi1239447.contaboserver.net:1080",
+          "https://vmi1239447.contaboserver.net:1443"
+        ],
+        "ip": [
+          "http://vmi1239447.contaboserver.net:1080",
+          "https://vmi1239447.contaboserver.net:1443"
+        ],
+        "pubkey": "302A300506032B657003210019E1B5EEABE5B365DE6A024C7F2399DC3A36135DCD6799FDABE6D76064718E7A"
       },
-      "3m7VxVVV3GbqQaJvKX1Ure5nXNT1":{
-        "host":[ "http://c1037n8.deinfra.net:1080", "https://c1037n8.deinfra.net:1443" ],
-        "ip":[ "http://185.208.207.93:1080", "https://c1037n8.deinfra.net:1443" ]
+      "c1037a.seedt1": {
+        "host": [
+          "http://seed.deinfra.org:1080",
+          "https://seed.deinfra.org:1443"
+        ],
+        "ip": [
+          "http://seed.deinfra.org:1080",
+          "https://seed.deinfra.org:1443"
+        ],
+        "pubkey": "302A300506032B6570032100E07514D5A280D41010E69B051633FC9D6655EDDF914AA9BC92772E1CC223BBD1"
       },
-      "rvi99PtxXAr79hjFEXrpjWtgCB6":{
-        "host":[ "http://c1037n9.deinfra.net:1080", "https://c1037n9.deinfra.net:1443" ],
-        "ip":[ "http://74.208.157.58:1080", "https://c1037n9.deinfra.net:1443" ]
+      "c1037a.simpson": {
+        "host": [
+          "http://simpson.power.crabdance.com:1080",
+          "https://simpson.power.crabdance.com:1443"
+        ],
+        "ip": [
+          "http://simpson.power.crabdance.com:1080",
+          "https://simpson.power.crabdance.com:1443"
+        ],
+        "pubkey": "302A300506032B65700321003AAE6E356ABD849FD509A907C9AF6D1EE2600F06BDB88437C4E3AEE9113BF67D"
       },
-      "nokey1":{
-        "host":[ "http://c1037n2.deinfra.net:1080", "https://c1037n2.deinfra.net:1443" ],
-        "ip":[ "http://38.242.138.108:1080", "https://c1037n2.deinfra.net:1443" ]
+      "c1037a.vovscorp": {
+        "host": [
+          "http://vovscorp.ddns.net:1080",
+          "https://vovscorp.ddns.net:1443"
+        ],
+        "ip": [
+          "http://vovscorp.ddns.net:1080",
+          "https://vovscorp.ddns.net:1443"
+        ],
+        "pubkey": "302A300506032B6570032100C4CA71691205674ACC35C4D92F0B5036AEDC908B343693C2A34903E2B5306B82"
       },
-      "nokey2":{
-        "host":[ "http://c1037n3.deinfra.net:1080", "https://c1037n3.deinfra.net:1443" ],
-        "ip":[ "http://36.91.27.44:1080", "https://c1037n3.deinfra.net:1443" ]
-      },
-      "nokey3":{
-        "host":[ "http://c1037n5.deinfra.net:1080", "https://c1037n5.deinfra.net:1443" ],
-        "ip":[ "http://194.163.168.237:1080", "https://c1037n5.deinfra.net:1443" ]
-      },
-      "nokey4":{
-        "host":[ "http://c1037n10.deinfra.net:1080", "https://c1037n10.deinfra.net:1443" ],
-        "ip":[ "http://139.59.226.114:1080", "https://c1037n10.deinfra.net:1443" ]
+      "c1040.simpson": {
+        "host": [
+          "http://c1040n13.deinfra.net:1080",
+          "https://c1040n13.deinfra.net:1443"
+        ],
+        "ip": [
+          "http://c1040n13.deinfra.net:1080",
+          "https://c1040n13.deinfra.net:1443"
+        ],
+        "pubkey": "302A300506032B6570032100669405A4CA576A870D45F0236FFF12A7DB4C7018B285D6821F1BDD478DD18A73"
       }
     },
     "1038":{
-      "2CBkveqYzd7ABwnPGBj7RBTSTcaa":{
-        "host":[ "http://c1038n14.deinfra.net:1080", "https://c1038n14.deinfra.net:1443" ],
-        "ip":[ "http://5.75.183.248:1080", "https://c1038n14.deinfra.net:1443" ]
+      "c1030.jancok": {
+        "host": [
+          "http://c1030n2.thepower.io:1080",
+          "https://c1030n2.thepower.io:1443"
+        ],
+        "ip": [
+          "http://167.71.222.180:1080",
+          "https://c1030n2.thepower.io:1443"
+        ],
+        "pubkey": "302A300506032B65700321008D3A934A43E2A72315077C5C222536CFD056CED5305C9F9389A72602C1027F00"
       },
-      "2UuRbt9EL9WrSwHCMDtkTpJdGryt":{
-        "host":[ "http://c1038n4.deinfra.net:1080", "https://c1038n4.deinfra.net:1443" ],
-        "ip":[ "http://185.208.207.36:1080", "https://c1038n4.deinfra.net:1443" ]
+      "c1033.brunouy": {
+        "host": [
+          "http://c1033n9.thepower.io:1080",
+          "https://c1033n9.thepower.io:1443"
+        ],
+        "ip": [
+          "http://c1033n9.thepower.io:1080",
+          "https://c1033n9.thepower.io:1443"
+        ],
+        "pubkey": "302A300506032B657003210074B8EE2A6AA32D193E0C301932D090DA08D8187327511C8F241144912EAB73E6"
       },
-      "2icR3HUdKqJBEgEwHx5r2GxoUMe1":{
-        "host":[ "http://c1038n5.deinfra.net:1080", "https://c1038n5.deinfra.net:1443" ],
-        "ip":[ "http://185.135.137.70:1080", "https://c1038n5.deinfra.net:1443" ]
+      "c1038.eltaz": {
+        "host": [
+          "http://c1038n6.deinfra.net:1080",
+          "https://c1038n6.deinfra.net:1443"
+        ],
+        "ip": [
+          "http://159.69.13.145:1080",
+          "https://c1038n6.deinfra.net:1443"
+        ],
+        "pubkey": "302A300506032B65700321002AAEF2F8912F0E38FBD7B631DB561FBC83B30BE1E4331500A48B81AE1DF945CA"
       },
-      "2nqrjBAcN6TUb7xEq6ydYtj6axrL":{
-        "host":[ "http://c1038n3.deinfra.net:1080", "https://c1038n3.deinfra.net:1443" ],
-        "ip":[ "http://154.26.138.219:1080", "https://c1038n3.deinfra.net:1443" ]
+      "c1038.fernando": {
+        "host": [
+          "http://c1038n14.deinfra.net:1080",
+          "https://c1038n14.deinfra.net:1443"
+        ],
+        "ip": [
+          "http://5.75.183.248:1080",
+          "https://c1038n14.deinfra.net:1443"
+        ],
+        "pubkey": "302A300506032B657003210076B33E39D2A117C422DD728E5056BBDB892A9D048AFEB15746F1968558BA77FC"
       },
-      "2oczhZPJDLCSX1aoPGF9MgjffvWD":{
-        "host":[ "http://c1038n2.deinfra.net:1080", "https://c1038n2.deinfra.net:1443" ],
-        "ip":[ "http://68.183.126.97:1080", "https://c1038n2.deinfra.net:1443" ]
+      "c1038.haekal": {
+        "host": [
+          "http://c1038n19.deinfra.net:1080",
+          "https://c1038n19.deinfra.net:1443"
+        ],
+        "ip": [
+          "http://8.219.156.66:1080",
+          "https://c1038n19.deinfra.net:1443"
+        ],
+        "pubkey": "302A300506032B657003210091A5C1E4CC55110DCD6AF2895923196DB99CEE7FA59CE24DA628A79E2ED5C6C2"
       },
-      "3DK78MiKZQreuaTKJmBuLAesFfmM":{
-        "host":[ "http://c1038n11.deinfra.net:1080", "https://c1038n11.deinfra.net:1443" ],
-        "ip":[ "http://147.182.197.22:1080", "https://c1038n11.deinfra.net:1443" ]
+      "c1038.korcan": {
+        "host": [
+          "http://c1038n12.deinfra.net:1080",
+          "https://c1038n12.deinfra.net:1443"
+        ],
+        "ip": [
+          "http://5.75.160.247:1080",
+          "https://c1038n12.deinfra.net:1443"
+        ],
+        "pubkey": "302A300506032B6570032100C29531B9F36BD9A44C2EAA6B47D6C446FBE3C6010A68A828A0C3FE89CA1252F8"
       },
-      "3QZp4KMwXxcJ8usemhLEcZrVTgGj":{
-        "host":[ "http://c1038n15.deinfra.net:1080", "https://c1038n15.deinfra.net:1443" ],
-        "ip":[ "http://103.150.196.79:1080", "https://c1038n15.deinfra.net:1443" ]
+      "c1038a.anode": {
+        "host": [
+          "http://thepower.anode.team:1080",
+          "https://thepower.anode.team:1443"
+        ],
+        "ip": [
+          "http://thepower.anode.team:1080",
+          "https://thepower.anode.team:1443"
+        ],
+        "pubkey": "302A300506032B6570032100412AC2DC250A94B8E6116179F99303AE6A31956E54597CA8C39B91188E60288C"
       },
-      "3pN6xwqT8roFTXLTmtPQX7imtqJD":{
-        "host":[ "http://c1038n9.deinfra.net:1080", "https://c1038n9.deinfra.net:1443" ],
-        "ip":[ "http://108.175.1.251:1080", "https://c1038n9.deinfra.net:1443" ]
-      },
-      "43mjEE7SgS8bmrwjyc2Jyygo6ToG":{
-        "host":[ "http://c1038n7.deinfra.net:1080" ],
-        "ip":[ "http://128.199.10.38:1080" ]
-      },
-      "44sHYCjbvaBKzhmwTVvuWn7sf9NL":{
-        "host":[ "http://c1038n12.deinfra.net:1080", "https://c1038n12.deinfra.net:1443" ],
-        "ip":[ "http://5.75.160.247:1080", "https://c1038n12.deinfra.net:1443" ]
-      },
-      "4FTkzaUa9gHVVcpXFkTSdS35ybqc":{
-        "host":[ "http://c1038n8.deinfra.net:1080", "https://c1038n8.deinfra.net:1443" ],
-        "ip":[ "http://154.38.166.187:1080", "https://c1038n8.deinfra.net:1443" ]
-      },
-      "4SF5WaP1qSTPKXfEwArQA86HRhpD":{
-        "host":[ "http://c1038n10.deinfra.net:1080", "https://c1038n10.deinfra.net:1443" ],
-        "ip":[ "http://144.126.134.126:1080", "https://c1038n10.deinfra.net:1443" ]
-      },
-      "HD5xqEqxYKLEz14sJN1GrtK6aEA":{
-        "host":[ "http://c1038n13.deinfra.net:1080", "https://c1038n13.deinfra.net:1443" ],
-        "ip":[ "http://34.66.211.230:1080", "https://c1038n13.deinfra.net:1443" ]
-      },
-      "My93XqsCFMYjFWh13bJJxcEo3kk":{
-        "host":[ "http://c1038n6.deinfra.net:1080", "https://c1038n6.deinfra.net:1443" ],
-        "ip":[ "http://159.69.13.145:1080", "https://c1038n6.deinfra.net:1443" ]
-      },
-      "fU1SUZ7j4DiZqshru2UapWdBN9c":{
-        "host":[ "http://c1038n17.deinfra.net:1080", "https://c1038n17.deinfra.net:1443" ],
-        "ip":[ "http://194.195.90.199:1080", "https://c1038n17.deinfra.net:1443" ]
-      },
-      "hTtrmvbp9AXmPfTUQHMKCjcq5pD":{
-        "host":[ "http://c1038n18.deinfra.net:1080", "https://c1038n18.deinfra.net:1443" ],
-        "ip":[ "http://149.102.135.139:1080", "https://c1038n18.deinfra.net:1443" ]
-      },
-      "tLuPFRAPXhRfFPH2RGQpW1jdbwy":{
-        "host":[ "http://c1038n20.deinfra.net:1080", "https://c1038n20.deinfra.net:1443" ],
-        "ip":[ "http://157.230.86.45:1080", "https://c1038n20.deinfra.net:1443" ]
-      },
-      "vfcRHWEVUMzHHjeHfhkVPhGcQD5":{
-        "host":[ "http://c1038n16.deinfra.net:1080", "https://c1038n16.deinfra.net:1443" ],
-        "ip":[ "http://84.46.246.63:1080", "https://c1038n16.deinfra.net:1443" ]
-      },
-      "nokey1":{
-        "host":[ "http://c1038n1.deinfra.net:1080", "https://c1038n1.deinfra.net:1443" ],
-        "ip":[ "http://142.93.148.13:1080", "https://c1038n1.deinfra.net:1443" ]
-      },
-      "nokey2":{
-        "host":[ "http://c1038n19.deinfra.net:1080", "https://c1038n19.deinfra.net:1443" ],
-        "ip":[ "http://137.184.148.46:1080", "https://c1038n19.deinfra.net:1443" ]
+      "c1041.mhrcldn": {
+        "host": [
+          "http://c1041n7.deinfra.net:1080",
+          "https://c1041n7.deinfra.net:1443"
+        ],
+        "ip": [
+          "http://c1041n7.deinfra.net:1080",
+          "https://c1041n7.deinfra.net:1443"
+        ],
+        "pubkey": "302A300506032B6570032100BD24B3E539A8C8E606844EC859F00F74A02BD3AE08E66F51454D23795BEBB034"
       }
     },
     "1039":{
@@ -1283,7 +1472,7 @@
   },
   "settings":{
     "devnet":[ 1, 2, 103, 104 ],
-    "testnet":[ 1025, 1027, 1038 ],
+    "testnet":[ 1025, 1026, 1027, 1037, 1038 ],
     "appchain":[ 1402, 1403 ]
   },
   "storage":{
