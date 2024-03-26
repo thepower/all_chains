@@ -2996,6 +2996,61 @@
           "https://c1403n5.deinfra.net:1446"
         ],
         "pubkey": "302A300506032B65700321003A7507A863D2B2F9EC2A83F15046A8F4EA327DE6600ACBCE152CD9D49D3CB582"
+      },
+      "c1404.13c39b6eaef8": {
+        "host": [
+          "http://c1404n3.deinfra.net:1080",
+          "https://c1404n3.deinfra.net:1443"
+        ],
+        "ip": [
+          "http://57.128.111.156:1080",
+          "https://c1404n3.deinfra.net:1443"
+        ],
+        "pubkey": "302A300506032B657003210013C39B6EAEF8CFE8BB87441ADBCBA1F2A759F5317E3457E3FB3270BC72E6FAAE"
+      },
+      "c1404.c88dadac351c": {
+        "host": [
+          "http://c1404n1.deinfra.net:1080",
+          "https://c1404n1.deinfra.net:1443"
+        ],
+        "ip": [
+          "http://57.128.122.81:1080",
+          "https://c1404n1.deinfra.net:1443"
+        ],
+        "pubkey": "302A300506032B6570032100C88DADAC351CA38C3CF798086E8F34368DAECB064DB554CF7F957BB7E2FF43E2"
+      },
+      "c1404.e2586ccd7e0a": {
+        "host": [
+          "http://c1404n5.deinfra.net:1080",
+          "https://c1404n5.deinfra.net:1443"
+        ],
+        "ip": [
+          "http://51.83.252.35:1080",
+          "https://c1404n5.deinfra.net:1443"
+        ],
+        "pubkey": "302A300506032B6570032100E2586CCD7E0A72835DF0ADC39F9A6E47A1D960E0984452957A63EAE31B41AE27"
+      },
+      "c1404.e83791f6afac": {
+        "host": [
+          "http://c1404n2.deinfra.net:1080",
+          "https://c1404n2.deinfra.net:1443"
+        ],
+        "ip": [
+          "http://57.128.162.34:1080",
+          "https://c1404n2.deinfra.net:1443"
+        ],
+        "pubkey": "302A300506032B6570032100E83791F6AFAC6196AB638BF29F6CF7D38B33B800BAF7DFA9CA9A8E4D45E762A1"
+      },
+      "c1404.f3e6f74e5c8c": {
+        "host": [
+          "http://c1404n4.deinfra.net:1080",
+          "https://c1404n4.deinfra.net:1443"
+        ],
+        "ip": [
+          "http://141.95.101.18:1080",
+          "https://c1404n4.deinfra.net:1443"
+        ],
+        "pubkey": "302A300506032B6570032100F3E6F74E5C8CC2597574EEE4408A9EEAF970216898FD38DA07725D5CD478B9B7"
       }
     }
   },
@@ -3013,11 +3068,13 @@
       1037,
       1038,
       1402,
-      1403
+      1403,
+      1404
     ],
     "appchain": [
       1402,
-      1403
+      1403,
+      1404
     ]
   },
   "storage": {
