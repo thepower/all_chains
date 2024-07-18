@@ -2944,56 +2944,56 @@
     "1403": {
       "c1403.c1403n1": {
         "host": [
-          "http://c1403n1.deinfra.net:1083",
-          "https://c1403n1.deinfra.net:1446"
+          "http://thepower-dev-01.chainlab.ru:1083",
+          "https://thepower-dev-01.chainlab.ru:1446"
         ],
         "ip": [
-          "http://c1403n1.deinfra.net:1083",
-          "https://c1403n1.deinfra.net:1446"
+          "http://thepower-dev-01.chainlab.ru:1083",
+          "https://thepower-dev-01.chainlab.ru:1446"
         ],
         "pubkey": "302A300506032B65700321003DF2C4794632FFD6E05FFD5059ADB867630956250B3304DF42E2BCAC30FBB792"
       },
       "c1403.c1403n2": {
         "host": [
-          "http://c1403n2.deinfra.net:1083",
-          "https://c1403n2.deinfra.net:1446"
+          "http://thepower-dev-02.chainlab.ru:1083",
+          "https://thepower-dev-02.chainlab.ru:1446"
         ],
         "ip": [
-          "http://c1403n2.deinfra.net:1083",
-          "https://c1403n2.deinfra.net:1446"
+          "http://thepower-dev-02.chainlab.ru:1083",
+          "https://thepower-dev-02.chainlab.ru:1446"
         ],
         "pubkey": "302A300506032B65700321004785FDBB51A42825EB925D8FBBEEC5EF321A0B833430187CB90172DF5373E364"
       },
       "c1403.c1403n3": {
         "host": [
-          "http://c1403n3.deinfra.net:1083",
-          "https://c1403n3.deinfra.net:1446"
+          "http://thepower-dev-03.chainlab.ru:1083",
+          "https://thepower-dev-03.chainlab.ru:1446"
         ],
         "ip": [
-          "http://c1403n3.deinfra.net:1083",
-          "https://c1403n3.deinfra.net:1446"
+          "http://thepower-dev-03.chainlab.ru:1083",
+          "https://thepower-dev-03.chainlab.ru:1446"
         ],
         "pubkey": "302A300506032B6570032100E7814ECAA65AD6D78D52419D17336E661D329DAFB35DC3BE7C3C54EFDF3CC2E4"
       },
       "c1403.c1403n4": {
         "host": [
-          "http://c1403n4.deinfra.net:1083",
-          "https://c1403n4.deinfra.net:1446"
+          "http://thepower-dev-04.chainlab.ru:1083",
+          "https://thepower-dev-04.chainlab.ru:1446"
         ],
         "ip": [
-          "http://c1403n4.deinfra.net:1083",
-          "https://c1403n4.deinfra.net:1446"
+          "http://thepower-dev-04.chainlab.ru:1083",
+          "https://thepower-dev-04.chainlab.ru:1446"
         ],
         "pubkey": "302A300506032B6570032100E990060A0650E3D86098B568A6309429EB2F62B70F106E0890D728F6CD25C26D"
       },
       "c1403.c1403n5": {
         "host": [
-          "http://c1403n5.deinfra.net:1083",
-          "https://c1403n5.deinfra.net:1446"
+          "http://thepower-dev-05.chainlab.ru:1083",
+          "https://thepower-dev-05.chainlab.ru:1446"
         ],
         "ip": [
-          "http://c1403n5.deinfra.net:1083",
-          "https://c1403n5.deinfra.net:1446"
+          "http://thepower-dev-05.chainlab.ru:1083",
+          "https://thepower-dev-05.chainlab.ru:1446"
         ],
         "pubkey": "302A300506032B65700321003A7507A863D2B2F9EC2A83F15046A8F4EA327DE6600ACBCE152CD9D49D3CB582"
       }
