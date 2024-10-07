@@ -94,26 +94,6 @@
           "http://c3n3.thepower.io:1083",
           "https://c3n3.thepower.io:1446"
         ]
-      },
-      "c3n4": {
-        "host": [
-          "http://c3n4.thepower.io:1083",
-          "https://c3n4.thepower.io:1446"
-        ],
-        "ip": [
-          "http://c3n4.thepower.io:1083",
-          "https://c3n4.thepower.io:1446"
-        ]
-      },
-      "c3n5": {
-        "host": [
-          "http://c3n5.thepower.io:1083",
-          "https://c3n5.thepower.io:1446"
-        ],
-        "ip": [
-          "http://c3n5.thepower.io:1083",
-          "https://c3n5.thepower.io:1446"
-        ]
       }
     },
     "8": {
