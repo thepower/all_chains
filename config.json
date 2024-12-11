@@ -3034,6 +3034,30 @@
         ],
         "pubkey": "302A300506032B6570032100F3E6F74E5C8CC2597574EEE4408A9EEAF970216898FD38DA07725D5CD478B9B7"
       }
+    },
+    "100500": {
+      "n3": {
+        "host": [
+          "http://mainnet3.deinfra.net:80",
+          "https://mainnet3.deinfra.net:443"
+        ],
+        "ip": [
+          "http://mainnet3.deinfra.net:80",
+          "https://mainnet3.deinfra.net:443"
+        ]
+      }
+    },
+    "100501": {
+      "n3": {
+        "host": [
+          "http://c100501n3.deinfra.net:80",
+          "https://c100501n3.deinfra.net:443"
+        ],
+        "ip": [
+          "http://c100501n3.deinfra.net:80",
+          "https://c100501n3.deinfra.net:443"
+        ]
+      }
     }
   },
   "settings": {
