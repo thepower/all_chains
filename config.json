@@ -237,12 +237,12 @@
     "1025": {
       "c1025.arraya": {
         "host": [
-          "http://array-a.net:1080",
-          "https://array-a.net:1443"
+          "http://powernode.pyrobite.com:1080",
+          "https://powernode.pyrobite.com:1443"
         ],
         "ip": [
-          "http://array-a.net:1080",
-          "https://array-a.net:1443"
+          "http://powernode.pyrobite.com:1080",
+          "https://powernode.pyrobite.com:1443"
         ],
         "pubkey": "302A300506032B65700321002A5036CE2F7DBDBFC20E96C480E3BA59E79B4070C7AF0363CE736C254139F104"
       },
