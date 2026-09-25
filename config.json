@@ -3037,15 +3037,13 @@
       }
     },
     "100501": {
+      "n1": {
+        "host": [ "https://powernode.revoks.com:1443" ],
+        "ip": [ "https://powernode.revoks.com:1443" ]
+      },
       "n3": {
-        "host": [
-          "http://c100501n3.deinfra.net:80",
-          "https://c100501n3.deinfra.net:443"
-        ],
-        "ip": [
-          "http://c100501n3.deinfra.net:80",
-          "https://c100501n3.deinfra.net:443"
-        ]
+        "host": [ "https://c100501n3.deinfra.net:443" ],
+        "ip": [ "https://c100501n3.deinfra.net:443" ]
       }
     }
   },
